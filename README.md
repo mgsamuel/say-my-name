@@ -1,4 +1,6 @@
 # say-my-name
 pull request
 
-Emilio huelekulo
+Emilio es genial
+
+Samu no tanto
